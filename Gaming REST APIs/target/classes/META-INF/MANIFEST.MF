@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: cmpe275-lab2-rest
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: sneha
+Implementation-Vendor-Id: cmpe275-lab2
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/cmpe275-lab2
+ -rest/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
